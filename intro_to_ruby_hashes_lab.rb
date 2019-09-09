@@ -15,9 +15,8 @@ def monopoly_with_second_tier
   	monopoly = {
   	  :railroads => {
   	                :pieces => 4
-  	         
-  	  
-  	}}
+    	}
+  	}
   
 end
 
@@ -44,8 +43,7 @@ def monopoly_with_third_tier
   	                :pennsylvania_railroad => {},
   	                :b_and_o_railroad => {},
   	                :shortline_railroad => {}
-  	              
-  	     }
+  	                	     }
   	  }
   	}
   	       
